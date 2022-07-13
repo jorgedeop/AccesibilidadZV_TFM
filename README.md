@@ -1,7 +1,7 @@
 # AccesibilidadZV_TFM
 TFM del Máster en Tecnologías de la Información Geográficas de la UAH
 
-
+https://geogra.uah.es/accesibilidadzv/
 
 
 Este visor muestra la accesibilidad a las zonas verdes del municipio de Madrid en el supuesto caso de que todas las áreas que están consideradas como zonas verdes en el PGOUM, estén dentro de la red de conservación y mantenimiento del Ayuntamiento de Madrid.
